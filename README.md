@@ -4,7 +4,7 @@
 Il s'agit de la configuration et des modules personnalisés pour le bot IRC du canal #zestedesavoir sur `irc.smoothirc.net`
 
 ## Installation
-Sur linux, il suffit de lancer `yum install supybot` ou `apt-get install supybot`.
+Sur linux, il suffit de lancer `yum install supybot` ou `apt-get install supybot`.  
 Autres systèmes : TODO
 
 ## Utilisation
