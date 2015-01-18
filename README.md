@@ -10,7 +10,7 @@ Autres systèmes : TODO
 ## Utilisation
 Pour créer son premier bot, il suffit soit de partir du fichier Clem.conf du dépôt, soit d'utiliser la commande `supybot-wizard` qui va vous générer un fichier .conf après quelques questions.
 
-## Créer son plugin personnaliser
+## Créer son plugin personnalisé
 TODO...
 
 ## Lancement
