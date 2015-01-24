@@ -40,7 +40,7 @@ class Zeste(callbacks.Plugin):
             irc.reply('Malheureusement, pas de nouveaux chapitres aujourd\'hui. Mais le dernier est ici : http://endlesszeste.tk/chapitre-' + str(newChap-1))     
         
     def vendetta(self, irc, msg, args):
-        """Mange Cornichon qui a tenté de l'assassiner par le passé"""
+        """Mange Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Pseudo qui a tenté de l'assassiner par le passé"""
         if random.randint(0, 100) == 50:
             irc.reply("mange Cornichon", action=True)
         else:
